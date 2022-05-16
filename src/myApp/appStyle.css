@@ -1,0 +1,36 @@
+.form-control{
+	box-shadow: none !important;
+	border: none !important;
+	border-bottom: 1px solid #333 !important;
+	border-radius: 0px !important;
+}
+.form-control:focus{
+	border-bottom:2px solid #060657 !important;
+}
+.navlinks{
+	box-shadow: none !important;
+}
+.navlinks:focus	{
+	color: #1DA1F2 !important;
+}
+.navlinks:hover{
+	background-color: #253544de !important;
+}
+.topHome{
+	border-color: #494949 !important;
+}
+.topBord{
+	border-color: #494949 !important;
+	cursor: pointer;
+}
+.topBord:hover{
+	background-color: #1f2e3d;
+}
+.links{
+	font-size:1.5rem;
+}
+.buttomLi{
+	box-shadow:0.4px 0.4px 3px #ccc, -0.4px -0.4px 3px #ccc;
+	position: absolute;
+	bottom: 90px;
+}
