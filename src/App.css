@@ -1,0 +1,14 @@
+
+.main{
+  max-height:calc(100vh - 50px);
+  overflow:auto
+}
+.main::-webkit-scrollbar{
+  width: 0px;
+}
+.sideNav{
+  border-color: #616161 !important;
+}
+.right{
+    border-color: #616161 !important;
+}
